@@ -4,4 +4,5 @@ public class HelloWorld {
         System.out.println("This is my second page");
 
     }
+    // This is a code wich was added by another developer
 }
